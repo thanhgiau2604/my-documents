@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'My Documents',
-  tagline: 'Dinosaurs are cool',
+  tagline: '...including a lot of things you need',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -36,9 +36,6 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/thanhgiau2604/my-documents/',
         },
         blog: {
           showReadingTime: true,
@@ -47,9 +44,6 @@ const config: Config = {
             xslt: true,
           },
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/thanhgiau2604/my-documents/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
