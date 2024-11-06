@@ -626,7 +626,10 @@ https://learn.svelte.dev/tutorial/adding-parameters-to-actions
 
 5. Advanced binding
 **Contenteditable binding**
+
+```html
 <div bind:innerHTML={html} contenteditable />
+```
 
 **Each block bindings**
 You can even bind to properties inside an `each` block.
