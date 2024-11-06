@@ -32,7 +32,7 @@ From the Select an API dropdown, choose Gmail API → click Next
 ![image](./img/smtp/6.png)
 
 Next, you’ll need to fill out some information about your OAuth Client ID.
-![image](./img/smtp/Oauth.png)
+![image](./img/smtp/OAuth.png)
 
 Next, skip the Authorized JavaScript origins section and scroll to Authorized redirect URIs.
 ![image](./img/smtp/7.png)
