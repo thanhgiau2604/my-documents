@@ -1,5 +1,5 @@
 ---
-label: 'AWS Amplify'
+label: AWS Amplify
 title: A DEVELOPER'S GUIDE TO HOSTING NEXTJS APP ON AWS AMPLIFY
 ---
 
